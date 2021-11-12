@@ -1,0 +1,4 @@
+#Fri Sep 10 14:15:17 IST 2021
+base.0=E\:\\ALL\\crackbrain_app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

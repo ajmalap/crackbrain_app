@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041009894589",
+    "project_id": "crackbrain-22101",
+    "storage_bucket": "crackbrain-22101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041009894589:android:c2ddc2fd8e39d6a7f343d4",
+        "android_client_info": {
+          "package_name": "com.example.quiz_app_ii_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041009894589-7brffeednuj2fbepvkv728l3g19knbs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbfeJEOKbIqpnG1CCBIyY3N-cn4fOyAY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041009894589-7brffeednuj2fbepvkv728l3g19knbs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
